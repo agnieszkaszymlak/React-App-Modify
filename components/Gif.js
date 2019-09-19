@@ -19,3 +19,4 @@ Gif = React.createClass({
       </div>
     );
   }
+}
